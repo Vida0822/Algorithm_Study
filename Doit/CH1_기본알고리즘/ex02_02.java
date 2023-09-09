@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @author HEEMIN
  * @date 2023. 9. 8.-오후 10:59:13
- *	@subject 중앙값 구하기 
+ *	@subject 분기 : 중앙값 구하기 
  * @content 
 
 

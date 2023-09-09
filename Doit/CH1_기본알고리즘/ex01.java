@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @author HEEMIN
  * @date 2023. 9. 8.-오후 10:27:59
- *	@subject 입력된 세 정수중 최대값을 구하는 로직 
+ *	@subject 분기 : 입력된 세 정수중 최대값을 구하는 로직 
  * @content  순차구조와 선택구조 
 
 

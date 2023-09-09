@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Random;
 
-public class CoinSelect_2 {
+public class CoinSelect_2_My {
 	
 	
 	

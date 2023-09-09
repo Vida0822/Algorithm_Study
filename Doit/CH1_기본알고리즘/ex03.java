@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @author HEEMIN
  * @date 2023. 9. 8.-오후 11:05:51
- *	@subject 양수/음수/0 분기 
+ *	@subject 분기 :  양수/음수/0 분기 
  * @content 
 
 
