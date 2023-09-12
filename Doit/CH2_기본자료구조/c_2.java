@@ -1,5 +1,13 @@
 package CH2_기본자료구조;
 
+/**
+ * @author HEEMIN
+ * @date 2023. 9. 11.-오후 5:18:22
+ *	@subject 배열 
+ * @content  확장 for 문 --> index 값이 필요하지 않음 
+
+
+ */
 public class c_2 {
 
 	public static void main(String[] args) {

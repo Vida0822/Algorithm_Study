@@ -1,4 +1,4 @@
-package Exhaustive_Search;
+package arrayShift;
 
 import java.util.Scanner;
 
