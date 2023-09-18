@@ -3,14 +3,21 @@ package back_tracking;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class oneInKs {
+/**
+ * @author HEEMIN
+ * @date 2023. 9. 18.-오전 8:28:37
+ *	@subject K개 중 1개를 n번 뽑기 - 가능한 모든 조합을 구함 (순서대로) 
+ * @content  코드 따라침
+
+ */
+public class OneInKs_Simple {
 	
     public static int k, n;
     public static ArrayList<Integer> selectedNums = new ArrayList<>();
 
     
 	private static void findCombinations(int cnt) {
-		
+
 		// 종료 조건 설정
 		if(cnt == n) {			
 			printPermutation() ;
