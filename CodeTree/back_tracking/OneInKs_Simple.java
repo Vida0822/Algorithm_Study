@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * @author HEEMIN
  * @date 2023. 9. 18.-오전 8:28:37
- *	@subject K개 중 1개를 n번 뽑기 - 가능한 모든 조합을 구함 (순서대로) 
+ *	@subject 중복순열 backtracking(K개 중 1개를 n번 뽑기) - 가능한 모든 조합을 구함 (순서대로) 
  * @content  코드 따라침
 
  */

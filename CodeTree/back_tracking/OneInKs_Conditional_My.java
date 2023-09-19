@@ -8,7 +8,7 @@ import java.util.ArrayList;
 /**
  * @author HEEMIN
  * @date 2023. 9. 18.-오전 8:27:57
- *	@subject K개 중 1개를 n번 뽑기 - Conditional : 추가하기 전 특정 조건 만족하는지 확인 
+ *	@subject  중복순열 backtracking (K개 중 1개를 n번 뽑기) - Conditional : 추가하기 전 특정 조건 만족하는지 확인 
  * @content  Accepted
 
  */
