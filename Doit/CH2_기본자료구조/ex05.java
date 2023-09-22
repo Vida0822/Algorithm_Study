@@ -1,4 +1,4 @@
-package CH2_기본자료구조;
+package cH2_기본자료구조;
 
 import java.util.Arrays;
 import java.util.Scanner;

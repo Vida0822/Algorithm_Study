@@ -1,4 +1,4 @@
-package CH3_배열검색;
+package cH3_배열검색;
 
 import java.util.Scanner;
 
