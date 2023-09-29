@@ -1,4 +1,4 @@
-package cH3_배열검색;
+package ch3_배열검색;
 
 public class GenericClassTester {
 	

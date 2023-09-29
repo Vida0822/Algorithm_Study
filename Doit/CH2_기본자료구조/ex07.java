@@ -1,4 +1,4 @@
-package cH2_기본자료구조;
+package ch2_기본자료구조;
 
 /**
  * @author HEEMIN

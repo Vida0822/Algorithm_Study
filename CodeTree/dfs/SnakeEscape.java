@@ -18,7 +18,7 @@ public class SnakeEscape {
 		int[] dy = {0, 1} ; 
 
 		for (int i = 0; i < 2; i++) {
-			
+		
 			int newX = x + dx[i] ; 
 			int newY = y + dy[i] ; 
 
