@@ -1,9 +1,18 @@
 package sorting;
 
-
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/**
+ * @author HEEMIN
+ * @date 2023. 11. 20.-오후 11:47:48
+ *	@subject 기본 정렬 기준이 있는 자료형에서의 정렬 
+ * @content 두개 뽑아서 더하기 
+ part 1. 두개의 수를 뽑아 더해서 만들수 있는 모든 수를 배열에 담기 
+ part 2. 오름차순으로 정렬하기 
+ * 제시해주지 않는 자료구조를 사용해도 된다 (return만 문제에서 제시한대로 바꿔서) 
+
+ */
 public class 두개뽑아서더하기 {
 
 	public static int[] solution(int[] numbers) {
