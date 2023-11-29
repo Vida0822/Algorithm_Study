@@ -10,7 +10,8 @@ package dp;
 * 점화식 
 	DP[i][j] 
 	- if j = 0 --> DP[i-1][j] 
-	 : i 번째 숫자까지 고려했는데 숫자를 아무것도 고려하지 않았다는 것은 i-1번째 숫자까지도 어떤 숫자도 고려하지 않았음을 의미 
+	 : i 번째 숫자까지 고려했는데 숫자를 아무것도 고려하지 않았다는 것은 i-1번째 숫자까지도 어떤 숫자도 고려하지 않았음을 의미
+	  <-> 아무 숫자도 고려하지 않았다는 것은 그 어떤 숫자를 빼지도, 더하지도 않았음을 의미 => 0이 대입됨  
 	- if j is odd --> max(DP[i-1][j] , DP[i-1][j-1] + a[i]) 
 	- if j is even --> max(DP[i-1][j], DP[i-1][j-1] - a[i] ) 
 
@@ -35,6 +36,7 @@ public class 계산결과를최대로만들기 {
 		}
 	} // initialize
 			
+	
 	public static void main(String[] args) {
 		initialize(); 
 
@@ -48,7 +50,5 @@ public class 계산결과를최대로만들기 {
 				}
 			}  // j 
 		} // i 
-
 	} // main 
-
-}
+} // class 
