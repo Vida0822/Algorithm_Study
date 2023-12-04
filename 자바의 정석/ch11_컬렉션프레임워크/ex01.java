@@ -1,4 +1,4 @@
-package CH11_컬렉션프레임워크;
+package ch11_컬렉션프레임워크;
 
 import java.util.*;
 
