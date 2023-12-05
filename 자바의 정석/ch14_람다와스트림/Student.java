@@ -1,6 +1,7 @@
 package ch14_람다와스트림;
 
 public class Student implements Comparable<Student>{
+
 	String name ; 
 	int ban; 
 	int totalScore ; 
@@ -36,7 +37,34 @@ public class Student implements Comparable<Student>{
 		 */
 	}
 	
-	// grouping 기준 
+	
+	
+	// grouping 
+	
+	boolean isMale ; 
+	int hak ; 
+	
+	Student(String name, boolean isMale, int hak, int ban , int totalScore){
+		this.name = name ;
+		this.isMale = isMale ; 
+		this.hak = hak ; 
+		this.ban = ban  ; 
+		this.totalScore = totalScore ; 
+	} // 생성자 
+	
+	int getHak() {
+		return hak ; 
+	}
+	
+	boolean isMale() {
+		return isMale ; 
+	}
+	
+	public String toGroupString() {
+		return String.format("[%s, %s, %d학년 , %d반 , %3d점]",name, isMale?"남":"여" , hak ,ban, totalScore) ; 
+	} // toString
+
+	
 	enum Level{
 		HIGH, MID, LOW // 성적을 상, 중, 하 세단계로 분류 
 	}
