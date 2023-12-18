@@ -14,13 +14,10 @@ package ch13_쓰레드;
 public class ThreadEx17_객체지향적교착상태해결 {
 	public static void main(String[] args) {
 
-		RunImpl2 r1 = new RunImpl2() ;
-		RunImpl2 r2 = new RunImpl2() ;
-		RunImpl2 r3 = new RunImpl2() ;
 
-		Thread th1 = new Thread(r1 , "*"); 
-		Thread th2 = new Thread(r2 , "**"); 
-		Thread th3 = new Thread(r3 , "***"); 
+		ThreadForOOP th1 = new ThreadForOOP( "*"); 
+		ThreadForOOP th2 = new ThreadForOOP("**"); 
+		ThreadForOOP th3 = new ThreadForOOP("***"); 
 
 		th1.start();
 		th2.start();
@@ -48,14 +45,20 @@ public class ThreadEx17_객체지향적교착상태해결 {
 }
 
 
-class RunImpl2 implements Runnable{
+class ThreadForOOP implements Runnable{
 	boolean suspended = false ; 
 	boolean stopped = false  ; 
 
 	public void suspend() {suspended = true; }
 	public void resume() {suspended = false ; }
 	public void stop() {stopped = true; }
+	public void start() {th.start();}
 
+	Thread th ; 
+	
+	public ThreadForOOP(String name) {
+		th = new Thread(this, name) ; 
+	}
 
 	@Override
 	public void run() { // 1초에 한번씩 자기 쓰레드 이름을 출력
@@ -70,8 +73,4 @@ class RunImpl2 implements Runnable{
 		}
 		System.out.println(Thread.currentThread().getName() + "- stopped");
 	} // run 
-
-
-
-
-}
+} // class 
