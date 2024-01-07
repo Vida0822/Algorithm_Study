@@ -32,7 +32,7 @@ public class PriorityQueue_Practice {
 		System.out.println(-pq.peek()); 
 		// but 이렇게 보단 생성자에 Comparator 를 넣어주는게 better : public PriorityQueue(Comparator<? super E> comparator) 
 
-		
+	
 		/*
 		 * 2) 비교기로 우선순위 변경
 		 */
