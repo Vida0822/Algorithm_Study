@@ -9,5 +9,6 @@
 	<classpathentry kind="src" path="자바의 정석"/>
 	<classpathentry kind="src" path="CodeTree"/>
 	<classpathentry kind="src" path="Doit"/>
+	<classpathentry kind="src" path="취업을위한코딩테스트"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
