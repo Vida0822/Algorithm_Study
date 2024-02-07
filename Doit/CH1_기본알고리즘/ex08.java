@@ -1,4 +1,4 @@
-package ch1_기본알고리즘;
+package cH1_기본알고리즘;
 
 import java.util.Scanner;
 
