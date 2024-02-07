@@ -1,1 +1,7 @@
 /.metadata/
+.classpath
+.project
+
+# 컴파일된 바이너리 파일 무시
+bin/
+.settings/
