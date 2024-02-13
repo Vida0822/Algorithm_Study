@@ -10,6 +10,7 @@
 ### 구현 
 
 ### DFS/BFS 
+상 : [불량 사용자](https://wry-decade-11f.notion.site/b71fc2613af846baa2abf95f12a29bbb?pvs=4) / 
 
 ### 정렬 
 하 : 
@@ -50,4 +51,7 @@
 
 ### 기타 그래프 이론 
 
+### 자료구조 
+#### 스택 
+증 : [짝 지어 제거하기](https://wry-decade-11f.notion.site/b84cfe8eb16e4bf6b955d36b6e65f244?pvs=4) / 
 
