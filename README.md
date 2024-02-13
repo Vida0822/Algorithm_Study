@@ -25,7 +25,7 @@
 중 : [순위 검색](https://vida0822.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm_%EC%9E%90%EB%B0%94%EB%A1%9C%EC%BF%BC%EB%A6%AC%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/) / 
      [입국 심사](https://vida0822.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm_%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC/) / 
 <br> 
-상: [징검 다리](https://vida0822.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm_%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC/) /
+상: [징검 다리](https://vida0822.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm_%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC/) / [징검 다리 건너기](https://wry-decade-11f.notion.site/5d11763651024cacb55c53bf3614b310)
 
 
 ### 해시 
