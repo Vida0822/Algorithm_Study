@@ -1,7 +1,7 @@
 ## 유형별 문제 정리 
 
 ### 그리디 
-하: [왕실의 나이트](https://vida0822.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm_%EC%99%95%EC%8B%A4%EC%9D%98-%EB%82%98%EC%9D%B4%ED%8A%B8/) / 
+하: [왕실의 나이트](https://wry-decade-11f.notion.site/3d756c9384ad450e8993e08b9cb0eb16?pvs=4) / 
     [숫자 카드 게임](https://vida0822.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm_%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84/) / 
     [큰 수의 법칙](https://vida0822.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm_%ED%81%B0-%EC%88%98%EC%9D%98-%EB%B2%95%EC%B9%99/) / 
 <br>
