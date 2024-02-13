@@ -37,6 +37,9 @@
 
 ### 완전 탐색 / 순차 탐색
 
+### 투포인터 
+상: [보석쇼핑](https://wry-decade-11f.notion.site/113b30f3275340bdaa01c7f6f3c232d7?pvs=4) 
+
 ### DP 
 하 : [Choose One Of Two](https://vida0822.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm_%EC%9B%90%ED%95%98%EB%8A%94-state%EB%A5%BC-%EC%A0%95%EC%9D%98%ED%95%B4%EB%82%98%EA%B0%80%EB%8A%94-dp/) / 
 상 : [최단/최장 공통부분수열](https://vida0822.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm_%EC%B5%9C%EB%8B%A8-%EA%B3%B5%ED%86%B5-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4,-%EC%B5%9C%EC%9E%A5-%EA%B3%B5%ED%86%B5-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4/)
