@@ -51,7 +51,6 @@
 
 ### 기타 그래프 이론 
 
-### 자료구조 
-#### 스택 
-증 : [짝 지어 제거하기](https://wry-decade-11f.notion.site/b84cfe8eb16e4bf6b955d36b6e65f244?pvs=4) / 
+### 자료구조  
+스택 : [짝 지어 제거하기](https://wry-decade-11f.notion.site/b84cfe8eb16e4bf6b955d36b6e65f244?pvs=4) / 
 
