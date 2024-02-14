@@ -31,10 +31,10 @@
 중 : [베스트 엘범](https://vida0822.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm_%EB%B2%A0%EC%8A%A4%ED%8A%B8-%EC%97%98%EB%B2%94/) / 
 
 
-### 완전 탐색 / 순차 탐색
-
 ### 투포인터 
-상: [보석쇼핑](https://wry-decade-11f.notion.site/113b30f3275340bdaa01c7f6f3c232d7?pvs=4) 
+상: [보석 쇼핑](https://wry-decade-11f.notion.site/113b30f3275340bdaa01c7f6f3c232d7?pvs=4) 
+
+### 완전 탐색
 
 ### DP 
 하 : 
