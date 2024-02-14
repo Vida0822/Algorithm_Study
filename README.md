@@ -106,7 +106,8 @@
 
 
 ### 최단 경로 
-개념 : [다익스트라 알고리즘](https://vida0822.github.io/algorithm/Algorithm_%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC/)
+개념 : [다익스트라 알고리즘](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/)
+<br>
 
 
 ### 기타 그래프 이론 
