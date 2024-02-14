@@ -14,8 +14,8 @@
 
 ### DFS/BFS
 개념 : [DFS란?]() / [BFS란?]()
-
 <br> 
+
 중 : [단어 변환](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A8%EC%96%B4-%EB%B3%80%ED%99%98/) / 
 <br> 
 상 : [불량 사용자](https://vida0822.github.io/algorithm/Algorithm_%EB%B6%88%EB%9F%89-%EC%82%AC%EC%9A%A9%EC%9E%90/) / 
@@ -23,8 +23,8 @@
 
 ### 정렬 
 개념 : [여러가지 정렬기법]()
-
 <br>
+
 하 : 
 <br>
 중 : [가장 큰 수](https://vida0822.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm_%EC%A7%81%EC%A0%91-%EA%B8%B0%EC%A4%80-%EC%A0%95%ED%95%B4%EC%84%9C-%EC%A0%95%EB%A0%AC/) /     
