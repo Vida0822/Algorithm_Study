@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-class Node{
+class Node implements Comparable<Node>{
 	private int index ; 
 	private int distance ; 
 	
@@ -19,6 +19,16 @@ class Node{
 	public int getDistance() {
 		return this.distance ; 
 	}
+	
+	@Override
+	public int compareTo(Node other) {
+		// 음수가 나오면 this가 우선 
+		if(this.distance < other.distance) {
+			return -1 ; 
+		}
+		return 1 ; 
+	}
+	
 } // Node 
 
 public class Dikstra_Simple { // O(V^2) , 전체 노드 갯수 5000개 이하 
