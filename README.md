@@ -34,7 +34,7 @@
 ### 투포인터 
 상: [보석 쇼핑](https://wry-decade-11f.notion.site/113b30f3275340bdaa01c7f6f3c232d7?pvs=4) 
 
-### 완전 탐색
+### 탐색 기법
 
 ### DP 
 하 : 
