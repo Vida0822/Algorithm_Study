@@ -3,8 +3,7 @@
 ### 그리디 
 하 : [왕실의 나이트](https://vida0822.github.io/algorithm/Algorithm_%EC%99%95%EC%8B%A4%EC%9D%98-%EB%82%98%EC%9D%B4%ED%8A%B8/) / 
     [숫자카드게임](https://vida0822.github.io/algorithm/Algorithm_%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84/) / 
-    
-
+<br>
 중 : [1이 될 때까지](https://vida0822.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm_1%EC%9D%B4-%EB%90%A0-%EB%95%8C%EA%B9%8C%EC%A7%80/) / 
 <br> 
 상 : [단속 카메라](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A8%EC%86%8D-%EC%B9%B4%EB%A9%94%EB%9D%BC/) / 
@@ -46,7 +45,7 @@
 ### 투포인터 
 하 : [숫자 게임](https://vida0822.github.io/algorithm/Algorithm_%EC%88%AB%EC%9E%90-%EA%B2%8C%EC%9E%84/) / 
 <br> 
-중: [쿠키 구입](https://vida0822.github.io/algorithm/Algorithm_%EC%BF%A0%ED%82%A4-%EA%B5%AC%EC%9E%85/) 
+중: [쿠키 구입](https://vida0822.github.io/algorithm/Algorithm_%EC%BF%A0%ED%82%A4-%EA%B5%AC%EC%9E%85/) / 
 <br>
 상: [보석 쇼핑](https://vida0822.github.io/algorithm/Algorithm_%EB%B3%B4%EC%84%9D-%EC%87%BC%ED%95%91/)  / 
 
@@ -58,8 +57,6 @@
 중 : [스티커 모으기](https://vida0822.github.io/algorithm/Algorithm_%EC%8A%A4%ED%8B%B0%EC%BB%A4-%EB%AA%A8%EC%9C%BC%EA%B8%B0/) / 
     [등굣길](https://vida0822.github.io/algorithm/Algorithm_%EB%93%B1%EA%B5%A3%EA%B8%B8/) / 
     [Choose One of Two](https://vida0822.github.io/algorithm/Algorithm_%EC%9B%90%ED%95%98%EB%8A%94-state%EB%A5%BC-%EC%A0%95%EC%9D%98%ED%95%B4%EB%82%98%EA%B0%80%EB%8A%94-dp/) / 
-    
-
 <br>
 상 : [최단/최장 공통부분수열](https://vida0822.github.io/algorithm/Algorithm_%EC%B5%9C%EB%8B%A8-%EA%B3%B5%ED%86%B5-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4,-%EC%B5%9C%EC%9E%A5-%EA%B3%B5%ED%86%B5-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4/)
 
