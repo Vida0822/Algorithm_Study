@@ -7,7 +7,7 @@
 중 : [1이 될 때까지](https://vida0822.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm_1%EC%9D%B4-%EB%90%A0-%EB%95%8C%EA%B9%8C%EC%A7%80/) / 
 <br> 
 상 : [단속 카메라](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A8%EC%86%8D-%EC%B9%B4%EB%A9%94%EB%9D%BC/) / 
-
+<br>
 
 ### 구현 
 
@@ -19,7 +19,7 @@
 중 : [단어 변환](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A8%EC%96%B4-%EB%B3%80%ED%99%98/) / 
 <br> 
 상 : [불량 사용자](https://vida0822.github.io/algorithm/Algorithm_%EB%B6%88%EB%9F%89-%EC%82%AC%EC%9A%A9%EC%9E%90/) / 
-
+<br>
 
 ### 정렬 
 개념 : [여러가지 정렬기법]()
@@ -30,14 +30,14 @@
 중 : [가장 큰 수](https://vida0822.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm_%EC%A7%81%EC%A0%91-%EA%B8%B0%EC%A4%80-%EC%A0%95%ED%95%B4%EC%84%9C-%EC%A0%95%EB%A0%AC/) /     
 <br> 
 상 : 
-
+<br>
 
 ### 순차 탐색 
 개념: [처음부터 끝까지!](링크) 
 <br> 
 
 중 : [기지국 설치](https://vida0822.github.io/algorithm/Algorithm_%EA%B8%B0%EC%A7%80%EA%B5%AD-%EC%84%A4%EC%B9%98/) / 
-
+<br>
 
 
 ### 이분 탐색 
@@ -51,7 +51,7 @@
 <br> 
 상: [징검 다리](https://vida0822.github.io/algorithm/Algorithm_%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC/) /
     [징검다리 건너기](https://vida0822.github.io/algorithm/Algorithm_%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC-%EA%B1%B4%EB%84%88%EA%B8%B0/) / 
-
+<br>
 
 
 ### 해시 
@@ -63,7 +63,7 @@
 중 : [베스트 엘범](https://vida0822.github.io/algorithm/Algorithm_%EB%B2%A0%EC%8A%A4%ED%8A%B8-%EC%97%98%EB%B2%94/) / 
 <br> 
 상 : [호텔 방 배정](https://vida0822.github.io/algorithm/Algorithm_%ED%98%B8%ED%85%94-%EB%B0%A9-%EB%B0%B0%EC%A0%95/) / 
-
+<br>
 
 
 ### 투포인터 
@@ -75,7 +75,7 @@
 중: [쿠키 구입](https://vida0822.github.io/algorithm/Algorithm_%EC%BF%A0%ED%82%A4-%EA%B5%AC%EC%9E%85/) / 
 <br>
 상: [보석 쇼핑](https://vida0822.github.io/algorithm/Algorithm_%EB%B3%B4%EC%84%9D-%EC%87%BC%ED%95%91/)  / 
-
+<br>
 
 
 ### 탐색 기법
@@ -96,13 +96,13 @@
     [등굣길](https://vida0822.github.io/algorithm/Algorithm_%EB%93%B1%EA%B5%A3%EA%B8%B8/) / 
     [Choose One of Two](https://vida0822.github.io/algorithm/Algorithm_%EC%9B%90%ED%95%98%EB%8A%94-state%EB%A5%BC-%EC%A0%95%EC%9D%98%ED%95%B4%EB%82%98%EA%B0%80%EB%8A%94-dp/) / 
 <br>
-상 : [최단/최장 공통부분수열](https://vida0822.github.io/algorithm/Algorithm_%EC%B5%9C%EB%8B%A8-%EA%B3%B5%ED%86%B5-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4,-%EC%B5%9C%EC%9E%A5-%EA%B3%B5%ED%86%B5-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4/)
-
+상 : [최단/최장 공통부분수열](https://vida0822.github.io/algorithm/Algorithm_%EC%B5%9C%EB%8B%A8-%EA%B3%B5%ED%86%B5-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4,-%EC%B5%9C%EC%9E%A5-%EA%B3%B5%ED%86%B5-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4/) / 
+<br>
 
 
 ### 문자열 
 상 : [자동완성](https://vida0822.github.io/algorithm/Algorithm_%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1/)
-
+<br>
 
 
 ### 최단 경로 
@@ -110,10 +110,11 @@
     [플로이드 워셜 알고리즘](https://vida0822.github.io/algorithm/Algorithm_%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%9B%8C%EC%85%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/) 
 <br>
 
-중 : [미래 도시]() 
-<br>
-상 : 
+다익스트라 : [미래도시](https://vida0822.github.io/algorithm/Algorithm_%EB%AF%B8%EB%9E%98%EB%8F%84%EC%8B%9C/) / 
+            [가장 먼 노드](https://vida0822.github.io/algorithm/Algorithm_%EA%B0%80%EC%9E%A5-%EB%A8%BC-%EB%85%B8%EB%93%9C/) / 
 <br> 
+플로이드 워셜 : [전보](https://vida0822.github.io/algorithm/Algorithm_%EC%A0%84%EB%B3%B4/) / 
+<br>
 
 
 ### 기타 그래프 이론 
