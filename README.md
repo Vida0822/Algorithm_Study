@@ -22,10 +22,11 @@
 <br>
 
 ### 정렬 
-개념 : [여러가지 정렬기법]()
+개념 : [여러가지 정렬기법]() / 
+    [소스코드(구현)]() / 
 <br>
 
-하 : 
+하 : [부품 찾기](https://vida0822.github.io/algorithm/Algorithm_%EB%B6%80%ED%92%88%EC%B0%BE%EA%B8%B0/) / 
 <br>
 중 : [가장 큰 수](https://vida0822.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm_%EC%A7%81%EC%A0%91-%EA%B8%B0%EC%A4%80-%EC%A0%95%ED%95%B4%EC%84%9C-%EC%A0%95%EB%A0%AC/) /     
 <br> 
@@ -33,7 +34,7 @@
 <br>
 
 ### 순차 탐색 
-개념: [처음부터 끝까지!](링크) 
+개념: [처음부터 끝까지!(필기)](링크) 
 <br> 
 
 중 : [기지국 설치](https://vida0822.github.io/algorithm/Algorithm_%EA%B8%B0%EC%A7%80%EA%B5%AD-%EC%84%A4%EC%B9%98/) / 
@@ -41,13 +42,16 @@
 
 
 ### 이분 탐색 
-개념 : [반씩 줄여나가며 탐색](링크)
+개념 : [반씩 줄여나가며 탐색(필기)](링크) / 
+        [소스코드(구현)](https://vida0822.github.io/algorithm/Algorithm_%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89-%EA%B5%AC%ED%98%84/)
+
 <br>
 
 하 : 
 <br>
 중 : [순위 검색](https://vida0822.github.io/algorithm/Algorithm_%EC%9E%90%EB%B0%94%EB%A1%9C%EC%BF%BC%EB%A6%AC%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/) / 
      [입국 심사](https://vida0822.github.io/algorithm/Algorithm_%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC/) / 
+    [떡볶이 떡 만들기](https://vida0822.github.io/algorithm/Algorithm_%EB%96%A1%EB%B3%B6%EC%9D%B4-%EB%96%A1-%EB%A7%8C%EB%93%A4%EA%B8%B0/) / 
 <br> 
 상: [징검 다리](https://vida0822.github.io/algorithm/Algorithm_%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC/) /
     [징검다리 건너기](https://vida0822.github.io/algorithm/Algorithm_%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC-%EA%B1%B4%EB%84%88%EA%B8%B0/) / 
