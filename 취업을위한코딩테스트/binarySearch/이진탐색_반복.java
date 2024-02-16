@@ -1,5 +1,7 @@
 package binarySearch;
 
+import java.util.Arrays;
+
 public class 이진탐색_반복 {
 	
 	public static int binarySearch(int[] arr, int target, int start, int end) {
@@ -17,5 +19,4 @@ public class 이진탐색_반복 {
 		}
 		return -1; 
 	}
-
 } // class 
