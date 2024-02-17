@@ -13,7 +13,9 @@
 
 
 ### DFS/BFS
-개념 : [DFS란?]() / [BFS란?]()
+개념 : [Recursion](https://vida0822.github.io/algorithm/Algorithm_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98/) 
+    / [DFS란?](https://vida0822.github.io/algorithm/Algorithm_DFS-%EA%B0%9C%EB%85%90/) 
+    / [BFS란?](https://vida0822.github.io/algorithm/Algorithm_BFS-%EA%B0%9C%EB%85%90/)
 <br> 
 
 중 : [단어 변환](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A8%EC%96%B4-%EB%B3%80%ED%99%98/) / 
@@ -22,7 +24,7 @@
 <br>
 
 ### 정렬 
-개념 : [여러가지 정렬기법]() / 
+개념 : [여러가지 정렬기법](https://vida0822.github.io/algorithm/Algorithm_%EC%97%AC%EB%9F%AC%EA%B0%80%EC%A7%80-%EC%A0%95%EB%A0%AC%EA%B8%B0%EB%B2%95/) / 
     [소스코드(구현)]() / 
 <br>
 
@@ -34,7 +36,7 @@
 <br>
 
 ### 순차 탐색 
-개념: [처음부터 끝까지!(필기)](링크) 
+개념: [처음부터 끝까지!(필기)](https://vida0822.github.io/algorithm/Algorithm_%EC%84%A0%ED%98%95%ED%83%90%EC%83%89%EA%B0%9C%EB%85%90/) 
 <br> 
 
 중 : [기지국 설치](https://vida0822.github.io/algorithm/Algorithm_%EA%B8%B0%EC%A7%80%EA%B5%AD-%EC%84%A4%EC%B9%98/) / 
@@ -42,9 +44,8 @@
 
 
 ### 이분 탐색 
-개념 : [반씩 줄여나가며 탐색(필기)](링크) / 
+개념 : [반씩 줄여나가며 탐색(필기)](https://vida0822.github.io/algorithm/Algorithm_%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%EA%B0%9C%EB%85%90/) / 
         [소스코드(구현)](https://vida0822.github.io/algorithm/Algorithm_%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89-%EA%B5%AC%ED%98%84/)
-
 <br>
 
 하 : 
@@ -59,7 +60,7 @@
 
 
 ### 해시 
-개념 : [O(1)의 기적]()
+개념 : [해시와 해시함수, 해시충돌](https://vida0822.github.io/algorithm/Algorithm_%ED%95%B4%EC%8B%9C-%EA%B0%9C%EB%85%90/) / 
 <br> 
 
 하 : [중복된 문자 제거](https://vida0822.github.io/algorithm/Algorithm_%ED%95%B4%EC%8B%B1%EC%9C%BC%EB%A1%9C-%EC%A4%91%EB%B3%B5%EB%90%9C-%EB%AC%B8%EC%9E%90-%EC%A0%9C%EA%B1%B0/)
@@ -83,15 +84,15 @@
 
 
 ### 탐색 기법
-완전탐색 ([개념)()) : 
+완전탐색 ([개념)(https://vida0822.github.io/algorithm/Algorithm_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-%EA%B0%9C%EB%85%90/)) : 
 <br>
 
-백트래킹 ([개념)()): 
+백트래킹 ([개념)(https://vida0822.github.io/algorithm/Algorithm_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9-%EA%B0%9C%EB%85%90/)): 
 
 
 
 ### DP 
-개념 : [지나간 계산은 돌아보지 말자]()
+개념 : [지나간 계산은 돌아보지 말자](https://vida0822.github.io/algorithm/Algorithm_DP-%EA%B0%9C%EB%85%90/)
 <br>
 
 하 : 
@@ -126,6 +127,13 @@
 
 
 ### 자료구조  
-스택([개념)()) : [짝 지어 제거하기](https://vida0822.github.io/algorithm/Algorithm_%EC%A7%9D-%EC%A7%80%EC%96%B4-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0/) / 
+스택([개념)(https://vida0822.github.io/algorithm/Algorithm_%EC%8A%A4%ED%83%9D/)) : 
+    [짝 지어 제거하기](https://vida0822.github.io/algorithm/Algorithm_%EC%A7%9D-%EC%A7%80%EC%96%B4-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0/) / 
 <br> 
-우선순위 큐([개념)()): [야근지수](https://vida0822.github.io/algorithm/Algorithm_%EC%95%BC%EA%B7%BC-%EC%A7%80%EC%88%98/) / 
+우선순위 큐([개념)(https://vida0822.github.io/algorithm/Algorithm_%ED%81%90/)):
+    [야근지수](https://vida0822.github.io/algorithm/Algorithm_%EC%95%BC%EA%B7%BC-%EC%A7%80%EC%88%98/) / 
+<br>
+트리([개념)(https://vida0822.github.io/algorithm/Algorithm_%ED%8A%B8%EB%A6%AC/)) : 
+<br>
+그래프([개념](https://vida0822.github.io/algorithm/Algorithm_%EA%B7%B8%EB%9E%98%ED%94%84/)) : 
+<br>
