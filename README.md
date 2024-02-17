@@ -36,7 +36,7 @@
 <br>
 
 ### 순차 탐색 
-개념: [처음부터 끝까지!(필기)](https://vida0822.github.io/algorithm/Algorithm_%EC%84%A0%ED%98%95%ED%83%90%EC%83%89%EA%B0%9C%EB%85%90/) 
+개념: [처음부터 끝까지!](https://vida0822.github.io/algorithm/Algorithm_%EC%84%A0%ED%98%95%ED%83%90%EC%83%89%EA%B0%9C%EB%85%90/) 
 <br> 
 
 중 : [기지국 설치](https://vida0822.github.io/algorithm/Algorithm_%EA%B8%B0%EC%A7%80%EA%B5%AD-%EC%84%A4%EC%B9%98/) / 
@@ -44,7 +44,7 @@
 
 
 ### 이분 탐색 
-개념 : [반씩 줄여나가며 탐색(필기)](https://vida0822.github.io/algorithm/Algorithm_%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%EA%B0%9C%EB%85%90/) / 
+개념 : [반씩 줄여나가며 탐색](https://vida0822.github.io/algorithm/Algorithm_%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%EA%B0%9C%EB%85%90/) / 
         [소스코드(구현)](https://vida0822.github.io/algorithm/Algorithm_%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89-%EA%B5%AC%ED%98%84/)
 <br>
 
