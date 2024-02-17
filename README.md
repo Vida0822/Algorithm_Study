@@ -84,9 +84,9 @@
 
 
 ### 탐색 기법
-완전탐색([개념)(https://vida0822.github.io/algorithm/Algorithm_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-%EA%B0%9C%EB%85%90/)) : 
+완전탐색 [개념)(https://vida0822.github.io/algorithm/Algorithm_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-%EA%B0%9C%EB%85%90/) : 
 <br>
-백트래킹([개념)(https://vida0822.github.io/algorithm/Algorithm_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9-%EA%B0%9C%EB%85%90/)): 
+백트래킹 [개념)(https://vida0822.github.io/algorithm/Algorithm_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9-%EA%B0%9C%EB%85%90/) : 
 <br>
 
 
