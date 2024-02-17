@@ -134,5 +134,5 @@
 <br>
 트리 [개념](https://vida0822.github.io/algorithm/Algorithm_%ED%8A%B8%EB%A6%AC/)) : 
 <br>
-그래프[개념](https://vida0822.github.io/algorithm/Algorithm_%EA%B7%B8%EB%9E%98%ED%94%84/)) : 
+그래프[개념](https://vida0822.github.io/algorithm/Algorithm_%EA%B7%B8%EB%9E%98%ED%94%84/) : 
 <br>
