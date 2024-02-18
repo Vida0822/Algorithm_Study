@@ -1,10 +1,14 @@
 ## 유형별 개념 & 문제  
 
 ### 그리디 
+개념 : [크루스칼 알고리즘]() 
+    / [프림 알고리즘]() 
+<br> 
 하 : [왕실의 나이트](https://vida0822.github.io/algorithm/Algorithm_%EC%99%95%EC%8B%A4%EC%9D%98-%EB%82%98%EC%9D%B4%ED%8A%B8/) / 
     [숫자카드게임](https://vida0822.github.io/algorithm/Algorithm_%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84/) / 
 <br>
 중 : [1이 될 때까지](https://vida0822.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm_1%EC%9D%B4-%EB%90%A0-%EB%95%8C%EA%B9%8C%EC%A7%80/) / 
+    [최소비용신장트리 - 섬 연결하기]() / 
 <br> 
 상 : [단속 카메라](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A8%EC%86%8D-%EC%B9%B4%EB%A9%94%EB%9D%BC/) / 
 <br>
