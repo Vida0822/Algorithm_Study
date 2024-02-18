@@ -1,14 +1,15 @@
 ## 유형별 개념 & 문제  
 
 ### 그리디 
-개념 : [크루스칼 알고리즘]() 
-    / [프림 알고리즘]() 
+개념 : [크루스칼 알고리즘](https://vida0822.github.io/algorithm/Algorithm_%ED%81%AC%EB%A3%A8%EC%8A%A4%EC%B9%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/) 
+    / [프림 알고리즘](https://vida0822.github.io/algorithm/Algorithm_%ED%94%84%EB%A6%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/) 
 <br> 
+
 하 : [왕실의 나이트](https://vida0822.github.io/algorithm/Algorithm_%EC%99%95%EC%8B%A4%EC%9D%98-%EB%82%98%EC%9D%B4%ED%8A%B8/) / 
     [숫자카드게임](https://vida0822.github.io/algorithm/Algorithm_%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84/) / 
 <br>
 중 : [1이 될 때까지](https://vida0822.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm_1%EC%9D%B4-%EB%90%A0-%EB%95%8C%EA%B9%8C%EC%A7%80/) / 
-    [최소비용신장트리 - 섬 연결하기]() / 
+    [최소비용신장트리 - 섬 연결하기](https://vida0822.github.io/algorithm/Algorithm_%EC%84%AC-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/) / 
 <br> 
 상 : [단속 카메라](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A8%EC%86%8D-%EC%B9%B4%EB%A9%94%EB%9D%BC/) / 
 <br>
@@ -98,7 +99,7 @@
 개념 : [지나간 계산은 돌아보지 말자](https://vida0822.github.io/algorithm/Algorithm_DP-%EA%B0%9C%EB%85%90/)
 <br>
 
-하 : 
+하 : [효율적인 화폐구성](https://vida0822.github.io/algorithm/Algorithm_%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%ED%99%94%ED%8F%90-%EA%B5%AC%EC%84%B1/) 
 <br>
 중 : [스티커 모으기](https://vida0822.github.io/algorithm/Algorithm_%EC%8A%A4%ED%8B%B0%EC%BB%A4-%EB%AA%A8%EC%9C%BC%EA%B8%B0/) / 
     [등굣길](https://vida0822.github.io/algorithm/Algorithm_%EB%93%B1%EA%B5%A3%EA%B8%B8/) / 
