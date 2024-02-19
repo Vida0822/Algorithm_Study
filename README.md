@@ -111,11 +111,6 @@
 <br>
 
 
-### 문자열 
-상 : [자동완성](https://vida0822.github.io/algorithm/Algorithm_%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1/)
-<br>
-
-
 ### 최단 경로 
 개념 : [다익스트라 알고리즘](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/) / 
     [플로이드 워셜 알고리즘](https://vida0822.github.io/algorithm/Algorithm_%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%9B%8C%EC%85%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/) 
@@ -140,6 +135,7 @@
     [야근지수](https://vida0822.github.io/algorithm/Algorithm_%EC%95%BC%EA%B7%BC-%EC%A7%80%EC%88%98/) / 
 <br>
 트리 [개념](https://vida0822.github.io/algorithm/Algorithm_%ED%8A%B8%EB%A6%AC/) : 
+    [자동완성](https://vida0822.github.io/algorithm/Algorithm_%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1/) / 
 <br>
 그래프 [개념](https://vida0822.github.io/algorithm/Algorithm_%EA%B7%B8%EB%9E%98%ED%94%84/) : 
 <br>
