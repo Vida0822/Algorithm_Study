@@ -13,9 +13,11 @@
 <br> 
 상 : [단속 카메라](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A8%EC%86%8D-%EC%B9%B4%EB%A9%94%EB%9D%BC/) / 
 <br>
+<br>
 
 ### 구현 
 
+<br>
 
 ### DFS/BFS
 개념 : [Recursion](https://vida0822.github.io/algorithm/Algorithm_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98/) 
@@ -27,6 +29,7 @@
 <br> 
 상 : [불량 사용자](https://vida0822.github.io/algorithm/Algorithm_%EB%B6%88%EB%9F%89-%EC%82%AC%EC%9A%A9%EC%9E%90/) / 
     [여행 경로](https://vida0822.github.io/algorithm/Algorithm_%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C/) / 
+<br>
 <br>
 
 ### 정렬 
@@ -41,12 +44,14 @@
 <br> 
 상 : 
 <br>
+<br>
 
 ### 순차 탐색 
 개념: [처음부터 끝까지!](https://vida0822.github.io/algorithm/Algorithm_%EC%84%A0%ED%98%95%ED%83%90%EC%83%89%EA%B0%9C%EB%85%90/) 
 <br> 
 
 중 : [기지국 설치](https://vida0822.github.io/algorithm/Algorithm_%EA%B8%B0%EC%A7%80%EA%B5%AD-%EC%84%A4%EC%B9%98/) / 
+<br>
 <br>
 
 
@@ -64,6 +69,7 @@
 상: [징검 다리](https://vida0822.github.io/algorithm/Algorithm_%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC/) /
     [징검다리 건너기](https://vida0822.github.io/algorithm/Algorithm_%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC-%EA%B1%B4%EB%84%88%EA%B8%B0/) / 
 <br>
+<br>
 
 
 ### 해시 
@@ -75,6 +81,7 @@
 중 : [베스트 엘범](https://vida0822.github.io/algorithm/Algorithm_%EB%B2%A0%EC%8A%A4%ED%8A%B8-%EC%97%98%EB%B2%94/) / 
 <br> 
 상 : [호텔 방 배정](https://vida0822.github.io/algorithm/Algorithm_%ED%98%B8%ED%85%94-%EB%B0%A9-%EB%B0%B0%EC%A0%95/) / 
+<br>
 <br>
 
 
@@ -88,12 +95,14 @@
 <br>
 상: [보석 쇼핑](https://vida0822.github.io/algorithm/Algorithm_%EB%B3%B4%EC%84%9D-%EC%87%BC%ED%95%91/)  / 
 <br>
+<br>
 
 
 ### 탐색 기법
 완전탐색 [개념](https://vida0822.github.io/algorithm/Algorithm_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-%EA%B0%9C%EB%85%90/) : 
 <br>
 백트래킹 [개념](https://vida0822.github.io/algorithm/Algorithm_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9-%EA%B0%9C%EB%85%90/) : 
+<br>
 <br>
 
 
@@ -109,6 +118,7 @@
 <br>
 상 : [최단/최장 공통부분수열](https://vida0822.github.io/algorithm/Algorithm_%EC%B5%9C%EB%8B%A8-%EA%B3%B5%ED%86%B5-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4,-%EC%B5%9C%EC%9E%A5-%EA%B3%B5%ED%86%B5-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4/) / 
 <br>
+<br>
 
 
 ### 최단 경로 
@@ -121,9 +131,12 @@
 <br> 
 플로이드 워셜 : [전보](https://vida0822.github.io/algorithm/Algorithm_%EC%A0%84%EB%B3%B4/) / 
 <br>
+<br>
 
 
 ### 기타 그래프 이론 
+<br>
+<br>
 
 
 
@@ -138,4 +151,5 @@
     [자동완성](https://vida0822.github.io/algorithm/Algorithm_%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1/) / 
 <br>
 그래프 [개념](https://vida0822.github.io/algorithm/Algorithm_%EA%B7%B8%EB%9E%98%ED%94%84/) : 
+<br>
 <br>
