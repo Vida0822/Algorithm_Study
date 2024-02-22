@@ -1,15 +1,13 @@
 ## 유형별 개념 & 문제  
 
 ### 그리디 
-개념 : [크루스칼 알고리즘](https://vida0822.github.io/algorithm/Algorithm_%ED%81%AC%EB%A3%A8%EC%8A%A4%EC%B9%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/) 
-    / [프림 알고리즘](https://vida0822.github.io/algorithm/Algorithm_%ED%94%84%EB%A6%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/) 
+개념 :
 <br> 
 
 하 : [왕실의 나이트](https://vida0822.github.io/algorithm/Algorithm_%EC%99%95%EC%8B%A4%EC%9D%98-%EB%82%98%EC%9D%B4%ED%8A%B8/) / 
     [숫자카드게임](https://vida0822.github.io/algorithm/Algorithm_%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84/) / 
 <br>
 중 : [1이 될 때까지](https://vida0822.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm_1%EC%9D%B4-%EB%90%A0-%EB%95%8C%EA%B9%8C%EC%A7%80/) / 
-    [최소비용신장트리 - 섬 연결하기](https://vida0822.github.io/algorithm/Algorithm_%EC%84%AC-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/) / 
 <br> 
 상 : [단속 카메라](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A8%EC%86%8D-%EC%B9%B4%EB%A9%94%EB%9D%BC/) / 
 <br>
@@ -25,7 +23,8 @@
     / [DFS란?](https://vida0822.github.io/algorithm/Algorithm_DFS-%EA%B0%9C%EB%85%90/) 
     / [BFS란?](https://vida0822.github.io/algorithm/Algorithm_BFS-%EA%B0%9C%EB%85%90/)
 <br> 
-
+하: 
+<br> 
 중 : [단어 변환](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A8%EC%96%B4-%EB%B3%80%ED%99%98/) / 
 <br> 
 상 : [불량 사용자](https://vida0822.github.io/algorithm/Algorithm_%EB%B6%88%EB%9F%89-%EC%82%AC%EC%9A%A9%EC%9E%90/) / 
@@ -136,7 +135,14 @@
 
 
 ### 기타 그래프 이론 
+개념:  [크루스칼 알고리즘](https://vida0822.github.io/algorithm/Algorithm_%ED%81%AC%EB%A3%A8%EC%8A%A4%EC%B9%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/) 
+    / [프림 알고리즘](https://vida0822.github.io/algorithm/Algorithm_%ED%94%84%EB%A6%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/) 
 <br>
+하:
+<br>
+중: [최소비용신장트리 - 섬 연결하기](https://vida0822.github.io/algorithm/Algorithm_%EC%84%AC-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/) / 
+<br> 
+상: [자동완성](https://vida0822.github.io/algorithm/Algorithm_%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1/) / 
 <br>
 
 
@@ -149,7 +155,6 @@
     [야근지수](https://vida0822.github.io/algorithm/Algorithm_%EC%95%BC%EA%B7%BC-%EC%A7%80%EC%88%98/) / 
 <br>
 트리 [개념](https://vida0822.github.io/algorithm/Algorithm_%ED%8A%B8%EB%A6%AC/) : 
-    [자동완성](https://vida0822.github.io/algorithm/Algorithm_%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1/) / 
 <br>
 그래프 [개념](https://vida0822.github.io/algorithm/Algorithm_%EA%B7%B8%EB%9E%98%ED%94%84/) : 
 <br>
