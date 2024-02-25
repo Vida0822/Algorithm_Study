@@ -16,7 +16,6 @@
 
 ### 구현 
 시뮬레이션 : [상하좌우](https://vida0822.github.io/algorithm/Algorithm_%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0/) / 
-
 <br>
 <br>
 
@@ -24,6 +23,8 @@
 개념 : [Recursion](https://vida0822.github.io/algorithm/Algorithm_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98/) 
     / [DFS란?](https://vida0822.github.io/algorithm/Algorithm_DFS-%EA%B0%9C%EB%85%90/) 
     / [BFS란?](https://vida0822.github.io/algorithm/Algorithm_BFS-%EA%B0%9C%EB%85%90/)
+    / [백트래킹](https://vida0822.github.io/algorithm/Algorithm_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9-%EA%B0%9C%EB%85%90/) 
+<br> 
 <br> 
 
 하: 
@@ -74,6 +75,18 @@
 <br>
 <br>
 
+### 완전 탐색 
+개념 : [모든 경우의 수를 고려](https://vida0822.github.io/algorithm/Algorithm_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-%EA%B0%9C%EB%85%90/) 
+<br>
+
+Brute Force : 
+<br>
+Bit Mask : 
+<br>
+Permutation : 
+<br>
+<br>
+
 
 ### 해시 
 개념 : [해시와 해시함수, 해시충돌](https://vida0822.github.io/algorithm/Algorithm_%ED%95%B4%EC%8B%9C-%EA%B0%9C%EB%85%90/) / 
@@ -101,13 +114,6 @@
 <br>
 <br>
 
-
-### 탐색 기법
-완전탐색 [개념](https://vida0822.github.io/algorithm/Algorithm_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-%EA%B0%9C%EB%85%90/) : 
-<br>
-백트래킹 [개념](https://vida0822.github.io/algorithm/Algorithm_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9-%EA%B0%9C%EB%85%90/) : 
-<br>
-<br>
 
 
 ### DP 
