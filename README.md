@@ -25,7 +25,6 @@
     / [BFS란?](https://vida0822.github.io/algorithm/Algorithm_BFS-%EA%B0%9C%EB%85%90/)
     / [백트래킹](https://vida0822.github.io/algorithm/Algorithm_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9-%EA%B0%9C%EB%85%90/) 
 <br> 
-<br> 
 
 하: 
 <br> 
