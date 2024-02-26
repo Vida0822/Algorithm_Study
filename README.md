@@ -10,7 +10,7 @@
 <br>
 중 : [1이 될 때까지](https://vida0822.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm_1%EC%9D%B4-%EB%90%A0-%EB%95%8C%EA%B9%8C%EC%A7%80/) / 
 <br> 
-상 : 
+상 : [무지의 먹방라이브](https://vida0822.github.io/algorithm/Algorithm_%EB%AC%B4%EC%A7%80%EC%9D%98-%EB%A8%B9%EB%B0%A9-%EB%9D%BC%EC%9D%B4%EB%B8%8C/) / 
 <br>
 <br>
 
