@@ -26,13 +26,11 @@
     / [백트래킹](https://vida0822.github.io/algorithm/Algorithm_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9-%EA%B0%9C%EB%85%90/) 
 <br> 
 
-하: 
-<br> 
-중 : [단어 변환](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A8%EC%96%B4-%EB%B3%80%ED%99%98/) / 
-<br> 
-상 : [불량 사용자](https://vida0822.github.io/algorithm/Algorithm_%EB%B6%88%EB%9F%89-%EC%82%AC%EC%9A%A9%EC%9E%90/) / 
+DFS : [불량 사용자](https://vida0822.github.io/algorithm/Algorithm_%EB%B6%88%EB%9F%89-%EC%82%AC%EC%9A%A9%EC%9E%90/) / 
     [여행 경로](https://vida0822.github.io/algorithm/Algorithm_%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C/) / 
-<br>
+<br> 
+BFS : [단어 변환](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A8%EC%96%B4-%EB%B3%80%ED%99%98/) / 
+<br> 
 <br>
 
 ### 정렬 
