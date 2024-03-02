@@ -139,18 +139,6 @@ Permutation :
 <br>
 
 
-### 기타 그래프 이론 
-개념:  [크루스칼 알고리즘](https://vida0822.github.io/algorithm/Algorithm_%ED%81%AC%EB%A3%A8%EC%8A%A4%EC%B9%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/) 
-    / [프림 알고리즘](https://vida0822.github.io/algorithm/Algorithm_%ED%94%84%EB%A6%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/) 
-<br>
-하:
-<br>
-중: [최소비용신장트리 - 섬 연결하기](https://vida0822.github.io/algorithm/Algorithm_%EC%84%AC-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/) / 
-<br> 
-상: 
-<br>
-
-
 
 ### 자료구조  
 스택 [개념](https://vida0822.github.io/algorithm/Algorithm_%EC%8A%A4%ED%83%9D/) : 
@@ -163,6 +151,10 @@ Permutation :
     [자동완성](https://vida0822.github.io/algorithm/Algorithm_%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1/) / 
     [가사검색](https://vida0822.github.io/algorithm/Algorithm_%EA%B0%80%EC%82%AC%EA%B2%80%EC%83%89/) / 
 <br>
-그래프 [개념](https://vida0822.github.io/algorithm/Algorithm_%EA%B7%B8%EB%9E%98%ED%94%84/) : 
+그래프 [개념](https://vida0822.github.io/algorithm/Algorithm_%EA%B7%B8%EB%9E%98%ED%94%84/) :
+    [크루스칼 알고리즘](https://vida0822.github.io/algorithm/Algorithm_%ED%81%AC%EB%A3%A8%EC%8A%A4%EC%B9%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/)  / 
+    [프림 알고리즘](https://vida0822.github.io/algorithm/Algorithm_%ED%94%84%EB%A6%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/) / 
+    [위상정렬](https://vida0822.github.io/algorithm/Algorithm_%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/) / 
+    [섬 연결하기](https://vida0822.github.io/algorithm/Algorithm_%EC%84%AC-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/) / 
 <br>
 <br>
