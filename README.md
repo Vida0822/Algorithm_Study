@@ -156,5 +156,8 @@ Permutation :
     [프림 알고리즘](https://vida0822.github.io/algorithm/Algorithm_%ED%94%84%EB%A6%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/) / 
     [위상정렬](https://vida0822.github.io/algorithm/Algorithm_%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/) / 
     [섬 연결하기](https://vida0822.github.io/algorithm/Algorithm_%EC%84%AC-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/) / 
+    [도시 분할 계획](https://vida0822.github.io/algorithm/Algorithm_%EB%8F%84%EC%8B%9C-%EB%B6%84%ED%95%A0-%EA%B3%84%ED%9A%8D/) / 
+    [커리큘럼](https://vida0822.github.io/algorithm/Algorithm_%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC/) 
+    
 <br>
 <br>
