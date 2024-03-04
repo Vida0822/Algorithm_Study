@@ -46,7 +46,7 @@ public class 커리큘럼 {
 				int nextClass = graph.get(lesson).get(i) ; 
 				
 				result[nextClass] = Math.max(result[nextClass], result[lesson]+times[nextClass]) ; 
-				// 이유 : 매번 해당 강의를 듣는데 필요한 최소시간 갱신(자동으로), 근데 더 큰값이 나왔다는 건 선수과목이 더 있다는 얘기 
+				// 이유 : 매번 해당 강의를 듣는데 필요한 시간 갱신, 더 큰값이 나왔다는 건 선수과목이 더 있다는 얘기 
 				indegree[nextClass] -= 1 ; 
 				if(indegree[nextClass] == 0) {
 					q.offer(nextClass) ; 
