@@ -116,7 +116,8 @@ Permutation :
 개념 : [지나간 계산은 돌아보지 말자](https://vida0822.github.io/algorithm/Algorithm_DP-%EA%B0%9C%EB%85%90/)
 <br>
 
-하 : [효율적인 화폐구성](https://vida0822.github.io/algorithm/Algorithm_%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%ED%99%94%ED%8F%90-%EA%B5%AC%EC%84%B1/) 
+하 : [효율적인 화폐구성](https://vida0822.github.io/algorithm/Algorithm_%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%ED%99%94%ED%8F%90-%EA%B5%AC%EC%84%B1/)  / 
+    [금광](https://vida0822.github.io/algorithm/Algorithm_%EA%B8%88%EA%B4%91/) / 
 <br>
 중 : [스티커 모으기](https://vida0822.github.io/algorithm/Algorithm_%EC%8A%A4%ED%8B%B0%EC%BB%A4-%EB%AA%A8%EC%9C%BC%EA%B8%B0/) / 
     [등굣길](https://vida0822.github.io/algorithm/Algorithm_%EB%93%B1%EA%B5%A3%EA%B8%B8/) / 
