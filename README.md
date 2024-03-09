@@ -133,13 +133,15 @@ Permutation :
 
 ### 최단 경로 
 개념 : [다익스트라 알고리즘](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/) / 
-    [플로이드 워셜 알고리즘](https://vida0822.github.io/algorithm/Algorithm_%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%9B%8C%EC%85%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/) 
+    [플로이드 워셜 알고리즘](https://vida0822.github.io/algorithm/Algorithm_%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%9B%8C%EC%85%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/)  / 
+    [BFS로 구하는 최단거리](https://vida0822.github.io/algorithm/Algorithm_BFS%EB%A1%9C-%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C-%EA%B5%AC%ED%95%98%EA%B8%B0/ ) 
 <br>
 
 다익스트라 : [미래도시](https://vida0822.github.io/algorithm/Algorithm_%EB%AF%B8%EB%9E%98%EB%8F%84%EC%8B%9C/) / 
             [가장 먼 노드](https://vida0822.github.io/algorithm/Algorithm_%EA%B0%80%EC%9E%A5-%EB%A8%BC-%EB%85%B8%EB%93%9C/) / 
 <br> 
-플로이드 워셜 : [전보](https://vida0822.github.io/algorithm/Algorithm_%EC%A0%84%EB%B3%B4/) / 
+플로이드 워셜 : [전보](https://vida0822.github.io/algorithm/Algorithm_%EC%A0%84%EB%B3%B4/) /
+            [정확한 순위](https://vida0822.github.io/algorithm/Algorithm_%EC%A0%95%ED%99%95%ED%95%9C-%EC%88%9C%EC%9C%84/) 
 <br>
 <br>
 
