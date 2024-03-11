@@ -108,6 +108,7 @@ Permutation :
 하 : [숫자 게임](https://vida0822.github.io/algorithm/Algorithm_%EC%88%AB%EC%9E%90-%EA%B2%8C%EC%9E%84/) / 
 <br> 
 중: [쿠키 구입](https://vida0822.github.io/algorithm/Algorithm_%EC%BF%A0%ED%82%A4-%EA%B5%AC%EC%9E%85/) / 
+    [정확한 순위](https://vida0822.github.io/algorithm/Algorithm_%EC%A0%95%ED%99%95%ED%95%9C-%EC%88%9C%EC%9C%84/) / 
 <br>
 상: [보석 쇼핑](https://vida0822.github.io/algorithm/Algorithm_%EB%B3%B4%EC%84%9D-%EC%87%BC%ED%95%91/)  / 
 <br>
