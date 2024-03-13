@@ -151,6 +151,7 @@ Permutation :
 ### 자료구조  
 스택 [개념](https://vida0822.github.io/algorithm/Algorithm_%EC%8A%A4%ED%83%9D/) : 
     [짝 지어 제거하기](https://vida0822.github.io/algorithm/Algorithm_%EC%A7%9D-%EC%A7%80%EC%96%B4-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0/) / 
+    [괄호 회전하기](https://vida0822.github.io/algorithm/Algorithm_%EA%B4%84%ED%98%B8-%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0/) / 
 <br> 
 우선순위 큐 [개념](https://vida0822.github.io/algorithm/Algorithm_%ED%81%90/):
     [야근지수](https://vida0822.github.io/algorithm/Algorithm_%EC%95%BC%EA%B7%BC-%EC%A7%80%EC%88%98/) / 
