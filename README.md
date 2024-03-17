@@ -1,7 +1,7 @@
 ## 유형별 개념 & 문제  
 
 ### 그리디 
-개념 :
+개념 : 지금 당장 좋은걸 반복적으로 선택. 다음 선택은 고려하지 않는다
 <br> 
 
 하 : [왕실의 나이트](https://vida0822.github.io/algorithm/Algorithm_%EC%99%95%EC%8B%A4%EC%9D%98-%EB%82%98%EC%9D%B4%ED%8A%B8/) / 
@@ -17,13 +17,15 @@
 
 
 ### 구현 
-시뮬레이션 : 
+개념 : 완전 탐색, 시뮬레이션, 격자, 문자열, 인덱싱, 복잡한 코드
 <br>
-격자 : 
+하 : 
+<br>
+중 : [문자열 압축](https://vida0822.github.io/algorithm/Algorithm_%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%95%95%EC%B6%95/) / 
 <br> 
-문자열 : 
+상 : [자물쇠외 열쇠](https://vida0822.github.io/algorithm/Algorithm_%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80-%EC%97%B4%EC%87%A0/) 
 <br>
-
+<br>
 
 ### DFS/BFS
 개념 : [Recursion](https://vida0822.github.io/algorithm/Algorithm_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98/) 
