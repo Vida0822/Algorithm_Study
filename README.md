@@ -40,6 +40,7 @@ DFS : [불량 사용자](https://vida0822.github.io/algorithm/Algorithm_%EB%B6%8
     [여행 경로](https://vida0822.github.io/algorithm/Algorithm_%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C/) / 
     [괄호 변환](https://vida0822.github.io/algorithm/Algorithm_%EA%B4%84%ED%98%B8-%EB%B3%80%ED%99%98/) / 
     [연구소](https://vida0822.github.io/algorithm/Algorithm_%EC%97%B0%EA%B5%AC%EC%86%8C/) / 
+    [연산자 끼워넣기](https://vida0822.github.io/algorithm/Algorithm_%EC%97%B0%EC%82%B0%EC%9E%90-%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0/) / 
 <br> 
 BFS : [단어 변환](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A8%EC%96%B4-%EB%B3%80%ED%99%98/) / 
     [경주로 건설](https://vida0822.github.io/algorithm/Algorithm_%EA%B2%BD%EC%A3%BC%EB%A1%9C-%EA%B1%B4%EC%84%A4/) / 
