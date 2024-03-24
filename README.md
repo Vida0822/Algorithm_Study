@@ -34,6 +34,7 @@
     / [DFS란?](https://vida0822.github.io/algorithm/Algorithm_DFS-%EA%B0%9C%EB%85%90/) 
     / [BFS란?](https://vida0822.github.io/algorithm/Algorithm_BFS-%EA%B0%9C%EB%85%90/)
     / [백트래킹](https://vida0822.github.io/algorithm/Algorithm_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9-%EA%B0%9C%EB%85%90/) 
+    / [감시 피하기](https://vida0822.github.io/algorithm/Algorithm_%EA%B0%90%EC%8B%9C-%ED%94%BC%ED%95%98%EA%B8%B0/) 
 <br> 
 
 DFS : [불량 사용자](https://vida0822.github.io/algorithm/Algorithm_%EB%B6%88%EB%9F%89-%EC%82%AC%EC%9A%A9%EC%9E%90/) / 
