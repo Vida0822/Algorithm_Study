@@ -56,6 +56,7 @@ BFS : [단어 변환](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A8%E
 <br>
 
 하 : [부품 찾기](https://vida0822.github.io/algorithm/Algorithm_%EB%B6%80%ED%92%88%EC%B0%BE%EA%B8%B0/) / 
+    [국영수](https://github.com/Vida0822/Algorithm_Study/blob/9e94cfb9a5a1a7585a55597a3c9b50d34566459f/%EC%B7%A8%EC%97%85%EC%9D%84%EC%9C%84%ED%95%9C%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/sorting/%EA%B5%AD%EC%98%81%EC%88%98.java#L4-L46) / 
 <br>
 중 : [가장 큰 수](https://vida0822.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm_%EC%A7%81%EC%A0%91-%EA%B8%B0%EC%A4%80-%EC%A0%95%ED%95%B4%EC%84%9C-%EC%A0%95%EB%A0%AC/) / 
     [실패율](https://vida0822.github.io/algorithm/Algorithm_%EC%8B%A4%ED%8C%A8%EC%9C%A8/) / 
@@ -160,6 +161,7 @@ Permutation :
 
 다익스트라 : [미래도시](https://vida0822.github.io/algorithm/Algorithm_%EB%AF%B8%EB%9E%98%EB%8F%84%EC%8B%9C/) / 
             [가장 먼 노드](https://vida0822.github.io/algorithm/Algorithm_%EA%B0%80%EC%9E%A5-%EB%A8%BC-%EB%85%B8%EB%93%9C/) / 
+            [합승 택시 요금(카카오)](https://vida0822.github.io/algorithm/Algorithm_%ED%95%A9%EC%8A%B9-%ED%83%9D%EC%8B%9C-%EC%9A%94%EA%B8%88/) / 
 <br> 
 플로이드 워셜 : [전보](https://vida0822.github.io/algorithm/Algorithm_%EC%A0%84%EB%B3%B4/) /
             [정확한 순위](https://vida0822.github.io/algorithm/Algorithm_%EC%A0%95%ED%99%95%ED%95%9C-%EC%88%9C%EC%9C%84/) 
