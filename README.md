@@ -110,7 +110,9 @@ Permutation :
 개념 : [해시와 해시함수, 해시충돌](https://vida0822.github.io/algorithm/Algorithm_%ED%95%B4%EC%8B%9C-%EA%B0%9C%EB%85%90/) / 
 <br> 
 
-하 : [중복된 문자 제거](https://vida0822.github.io/algorithm/Algorithm_%ED%95%B4%EC%8B%B1%EC%9C%BC%EB%A1%9C-%EC%A4%91%EB%B3%B5%EB%90%9C-%EB%AC%B8%EC%9E%90-%EC%A0%9C%EA%B1%B0/)
+하 : [중복된 문자 제거](https://vida0822.github.io/algorithm/Algorithm_%ED%95%B4%EC%8B%B1%EC%9C%BC%EB%A1%9C-%EC%A4%91%EB%B3%B5%EB%90%9C-%EB%AC%B8%EC%9E%90-%EC%A0%9C%EA%B1%B0/) 
+    / [볼링공 고르기](https://github.com/Vida0822/Algorithm_Study/blob/6230f4383d5d0d0428d0360a98f2b559968c28c8/%EC%B7%A8%EC%97%85%EC%9D%84%EC%9C%84%ED%95%9C%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/greedy/%EB%B3%BC%EB%A7%81%EA%B3%B5%EA%B3%A0%EB%A5%B4%EA%B8%B0.java#L6) 
+    /
 <br>
 중 : [베스트 엘범](https://vida0822.github.io/algorithm/Algorithm_%EB%B2%A0%EC%8A%A4%ED%8A%B8-%EC%97%98%EB%B2%94/) / 
 <br> 
