@@ -17,9 +17,9 @@
 
 
 ### 구현 
-개념 : 완전 탐색, 시뮬레이션, 격자, 문자열, 인덱싱, 복잡한 코드
+개념 : 완전 탐색, 시뮬레이션, 격자, 문자열, 인덱싱, 수학적 원리 구현, 복잡한 코드
 <br>
-하 : 
+하 : [최대공약수,최대공배수](https://vida0822.github.io/algorithm/Algorithm_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/) / 
 <br>
 중 : [문자열 압축](https://vida0822.github.io/algorithm/Algorithm_%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%95%95%EC%B6%95/) / 
     [(1차)셔틀버스](https://vida0822.github.io/algorithm/Algorithm_-1%EC%B0%A8-%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4/)  / 
@@ -47,6 +47,7 @@ DFS : [불량 사용자](https://vida0822.github.io/algorithm/Algorithm_%EB%B6%8
 BFS : [단어 변환](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A8%EC%96%B4-%EB%B3%80%ED%99%98/) / 
     [경주로 건설](https://vida0822.github.io/algorithm/Algorithm_%EA%B2%BD%EC%A3%BC%EB%A1%9C-%EA%B1%B4%EC%84%A4/) / 
     [경쟁적 전염](https://vida0822.github.io/algorithm/Algorithm_%EA%B2%BD%EC%9F%81%EC%A0%81-%EC%A0%84%EC%97%BC/) / 
+    [인구이동](https://vida0822.github.io/algorithm/Algorithm_%EC%9D%B8%EA%B5%AC-%EC%9D%B4%EB%8F%99/) / 
 <br> 
 <br>
 
