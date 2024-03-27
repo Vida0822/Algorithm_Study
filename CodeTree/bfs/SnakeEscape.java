@@ -76,7 +76,8 @@ public class SnakeEscape {
 
 
 	public static class Pair{
-		int x , y ;
+		public int x ;
+		public int y;
 
 		public Pair(int x, int y) {
 			super();
