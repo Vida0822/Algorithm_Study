@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
+
 class Edge implements Comparable<Edge>{
 	private int distance ; 
 	private int nodeA; 

@@ -2,6 +2,7 @@ package graph;
 
 import java.util.*;
 
+
 public class 도시분할계획 {
 	
 	public static int[] parent  = new int[100001]; 
