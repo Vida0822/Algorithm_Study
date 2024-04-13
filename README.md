@@ -179,7 +179,8 @@ Permutation :
             [젤다](https://github.com/Vida0822/Algorithm_Study/blob/139c631eb622829b99a5a60d5b97f7220d0b68f3/%EC%B7%A8%EC%97%85%EC%9D%84%EC%9C%84%ED%95%9C%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/shortestPath/Gelda.java#L4-L75) / 
 <br> 
 플로이드 워셜 : [전보](https://vida0822.github.io/algorithm/Algorithm_%EC%A0%84%EB%B3%B4/) /
-            [정확한 순위](https://vida0822.github.io/algorithm/Algorithm_%EC%A0%95%ED%99%95%ED%95%9C-%EC%88%9C%EC%9C%84/) 
+            [정확한 순위](https://vida0822.github.io/algorithm/Algorithm_%EC%A0%95%ED%99%95%ED%95%9C-%EC%88%9C%EC%9C%84/) / 
+            [순위](https://vida0822.github.io/algorithm/Algorithm_%EC%88%9C%EC%9C%84/) / 
 <br>
 <br>
 
