@@ -15,7 +15,6 @@
 <br>
 <br>
 
-
 ### 수학적 원리 
 하 : [최대공약수,최대공배수](https://vida0822.github.io/algorithm/Algorithm_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/) / 
 <br>
