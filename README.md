@@ -16,11 +16,8 @@
 <br>
 
 ### 수학적 원리 
-하 : [최대공약수,최대공배수](https://vida0822.github.io/algorithm/Algorithm_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/) / 
-<br>
-중 : 
-<br> 
-상 : 
+[최대공약수,최대공배수](https://vida0822.github.io/algorithm/Algorithm_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/) / <br>
+[K진수에서 소수찾기](https://vida0822.github.io/algorithm/Algorithm_k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C-%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0/) /  <br>
 <br>
 <br> 
 
@@ -28,7 +25,6 @@
 개념 : 완전 탐색, 시뮬레이션, 격자, 문자열, 인덱싱, 복잡한 코드
 <br>
 하 : [튜플](https://vida0822.github.io/algorithm/Algorithm_%ED%8A%9C%ED%94%8C/) / 
-    [K진수에서 소수찾기](https://vida0822.github.io/algorithm/Algorithm_k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C-%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0/) / 
 <br>
 중 : [문자열 압축](https://vida0822.github.io/algorithm/Algorithm_%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%95%95%EC%B6%95/) / 
     [(1차)셔틀버스](https://vida0822.github.io/algorithm/Algorithm_-1%EC%B0%A8-%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4/)  / 
