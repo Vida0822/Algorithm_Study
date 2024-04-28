@@ -15,13 +15,9 @@
 <br>
 <br>
 
-
 ### 수학적 원리 
-하 : [최대공약수,최대공배수](https://vida0822.github.io/algorithm/Algorithm_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/) / 
-<br>
-중 : 
-<br> 
-상 : 
+[최대공약수,최대공배수](https://vida0822.github.io/algorithm/Algorithm_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/) / <br>
+[K진수에서 소수찾기](https://vida0822.github.io/algorithm/Algorithm_k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C-%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0/) /  <br>
 <br>
 <br> 
 
@@ -36,6 +32,7 @@
 <br> 
 상 : [자물쇠외 열쇠](https://vida0822.github.io/algorithm/Algorithm_%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80-%EC%97%B4%EC%87%A0/) / 
     [블록 게임](https://vida0822.github.io/algorithm/Algorithm_%EB%B8%94%EB%A1%9D%EA%B2%8C%EC%9E%84/) / 
+    [파괴되지 않은 건물](https://vida0822.github.io/algorithm/Algorithm_%ED%8C%8C%EA%B4%B4%EB%90%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EA%B1%B4%EB%AC%BC/) / 
 <br>
 <br>
 
