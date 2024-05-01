@@ -25,7 +25,7 @@
 <br> 
 
 ### 구현 
-개념 : 완전 탐색, 시뮬레이션, 격자, 문자열, 인덱싱, 복잡한 코드
+개념 : 완전 탐색, 시뮬레이션, 격자, 문자열, 인덱싱, 복잡한 코드, 구체적인 과정 설명
 <br>
 하 : [튜플](https://vida0822.github.io/algorithm/Algorithm_%ED%8A%9C%ED%94%8C/) / [(3차)압축](https://vida0822.github.io/algorithm/Algorithm_-3%EC%B0%A8-%EC%95%95%EC%B6%95/) / 
 <br>
