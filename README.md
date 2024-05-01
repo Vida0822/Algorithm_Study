@@ -24,7 +24,7 @@
 ### 구현 
 개념 : 완전 탐색, 시뮬레이션, 격자, 문자열, 인덱싱, 복잡한 코드
 <br>
-하 : [튜플](https://vida0822.github.io/algorithm/Algorithm_%ED%8A%9C%ED%94%8C/) / 
+하 : [튜플](https://vida0822.github.io/algorithm/Algorithm_%ED%8A%9C%ED%94%8C/) / [(3차)압축](https://vida0822.github.io/algorithm/Algorithm_-3%EC%B0%A8-%EC%95%95%EC%B6%95/) / 
 <br>
 중 : [문자열 압축](https://vida0822.github.io/algorithm/Algorithm_%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%95%95%EC%B6%95/) / 
     [(1차)셔틀버스](https://vida0822.github.io/algorithm/Algorithm_-1%EC%B0%A8-%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4/)  / 
