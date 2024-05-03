@@ -73,6 +73,7 @@ BFS : [단어 변환](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A8%E
 <br>
 중 : [가장 큰 수](https://vida0822.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm_%EC%A7%81%EC%A0%91-%EA%B8%B0%EC%A4%80-%EC%A0%95%ED%95%B4%EC%84%9C-%EC%A0%95%EB%A0%AC/) / 
     [실패율](https://vida0822.github.io/algorithm/Algorithm_%EC%8B%A4%ED%8C%A8%EC%9C%A8/) / 
+    [인사고과](https://vida0822.github.io/algorithm/Algorithm_%EC%9D%B8%EC%82%AC-%EA%B3%A0%EA%B3%BC/) 
 <br>
 상 : [단속 카메라](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A8%EC%86%8D-%EC%B9%B4%EB%A9%94%EB%9D%BC/) / 
     [디스크 컨트롤러](https://vida0822.github.io/algorithm/Algorithm_%EB%94%94%EC%8A%A4%ED%81%AC-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC/) 
