@@ -16,19 +16,25 @@
 <br>
 
 ### 수학적 원리 
-[최대공약수,최대공배수](https://vida0822.github.io/algorithm/Algorithm_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/) / <br>
-[K진수에서 소수찾기](https://vida0822.github.io/algorithm/Algorithm_k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C-%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0/) /  <br>
+[최대공약수,최대공배수](https://vida0822.github.io/algorithm/Algorithm_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/) / 
+[K진수에서 소수찾기](https://vida0822.github.io/algorithm/Algorithm_k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C-%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0/) /  
+[행렬의 곱셈](https://vida0822.github.io/algorithm/Algorithm_%ED%96%89%EB%A0%AC%EC%9D%98-%EA%B3%B1%EC%85%88/) / 
+[완전수](https://vida0822.github.io/algorithm/Algorithm_%EC%99%84%EC%A0%84%EC%88%98/) / 
+[n진수 변환](https://vida0822.github.io/algorithm/Algorithm_n%EC%A7%84%EC%88%98-%EB%B3%80%ED%99%98/) / 
+<br>
 <br>
 <br> 
 
 ### 구현 
-개념 : 완전 탐색, 시뮬레이션, 격자, 문자열, 인덱싱, 복잡한 코드
+개념 : 완전 탐색, 시뮬레이션, 격자, 문자열, 인덱싱, 복잡한 코드, 구체적인 과정 설명
 <br>
-하 : [튜플](https://vida0822.github.io/algorithm/Algorithm_%ED%8A%9C%ED%94%8C/) / 
+하 : [튜플](https://vida0822.github.io/algorithm/Algorithm_%ED%8A%9C%ED%94%8C/) / [(3차)압축](https://vida0822.github.io/algorithm/Algorithm_-3%EC%B0%A8-%EC%95%95%EC%B6%95/) / 
+    [(3차)n진수 게임](https://vida0822.github.io/algorithm/Algorithm_-3%EC%B0%A8-n-%EC%A7%84%EC%88%98-%EA%B2%8C%EC%9E%84/) / 
 <br>
 중 : [문자열 압축](https://vida0822.github.io/algorithm/Algorithm_%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%95%95%EC%B6%95/) / 
     [(1차)셔틀버스](https://vida0822.github.io/algorithm/Algorithm_-1%EC%B0%A8-%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4/)  / 
-    [뱀](https://github.com/Vida0822/Algorithm_Study/blob/67cc2f10503bae0cadcb502c5da55fc95ddce5b6/%EC%B7%A8%EC%97%85%EC%9D%84%EC%9C%84%ED%95%9C%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/implementation/%EB%B1%80.java#L9-L87)
+    [뱀](https://github.com/Vida0822/Algorithm_Study/blob/67cc2f10503bae0cadcb502c5da55fc95ddce5b6/%EC%B7%A8%EC%97%85%EC%9D%84%EC%9C%84%ED%95%9C%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/implementation/%EB%B1%80.java#L9-L87) / 
+[표 편집](https://vida0822.github.io/algorithm/Algorithm_%ED%91%9C-%ED%8E%B8%EC%A7%91/)
 <br> 
 상 : [자물쇠외 열쇠](https://vida0822.github.io/algorithm/Algorithm_%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80-%EC%97%B4%EC%87%A0/) / 
     [블록 게임](https://vida0822.github.io/algorithm/Algorithm_%EB%B8%94%EB%A1%9D%EA%B2%8C%EC%9E%84/) / 
@@ -68,6 +74,7 @@ BFS : [단어 변환](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A8%E
 <br>
 중 : [가장 큰 수](https://vida0822.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Algorithm_%EC%A7%81%EC%A0%91-%EA%B8%B0%EC%A4%80-%EC%A0%95%ED%95%B4%EC%84%9C-%EC%A0%95%EB%A0%AC/) / 
     [실패율](https://vida0822.github.io/algorithm/Algorithm_%EC%8B%A4%ED%8C%A8%EC%9C%A8/) / 
+    [인사고과](https://vida0822.github.io/algorithm/Algorithm_%EC%9D%B8%EC%82%AC-%EA%B3%A0%EA%B3%BC/) 
 <br>
 상 : [단속 카메라](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A8%EC%86%8D-%EC%B9%B4%EB%A9%94%EB%9D%BC/) / 
     [디스크 컨트롤러](https://vida0822.github.io/algorithm/Algorithm_%EB%94%94%EC%8A%A4%ED%81%AC-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC/) 
