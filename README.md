@@ -166,6 +166,7 @@ Permutation :
     [Choose One of Two](https://vida0822.github.io/algorithm/Algorithm_%EC%9B%90%ED%95%98%EB%8A%94-state%EB%A5%BC-%EC%A0%95%EC%9D%98%ED%95%B4%EB%82%98%EA%B0%80%EB%8A%94-dp/) / 
 <br>
 상 : [최단/최장 공통부분수열](https://vida0822.github.io/algorithm/Algorithm_%EC%B5%9C%EB%8B%A8-%EA%B3%B5%ED%86%B5-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4,-%EC%B5%9C%EC%9E%A5-%EA%B3%B5%ED%86%B5-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4/) / 
+    [퇴사](https://vida0822.github.io/algorithm/Algorithm_%ED%87%B4%EC%82%AC/) / 
 <br>
 <br>
 
