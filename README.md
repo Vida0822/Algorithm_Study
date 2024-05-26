@@ -39,6 +39,7 @@
 상 : [자물쇠외 열쇠](https://vida0822.github.io/algorithm/Algorithm_%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80-%EC%97%B4%EC%87%A0/) / 
     [블록 게임](https://vida0822.github.io/algorithm/Algorithm_%EB%B8%94%EB%A1%9D%EA%B2%8C%EC%9E%84/) / 
     [파괴되지 않은 건물](https://vida0822.github.io/algorithm/Algorithm_%ED%8C%8C%EA%B4%B4%EB%90%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EA%B1%B4%EB%AC%BC/) / 
+    [기둥과 보 설치](https://vida0822.github.io/algorithm/Algorithm_%EA%B8%B0%EB%91%A5%EA%B3%BC-%EB%B3%B4-%EC%84%A4%EC%B9%98/) / 
 <br>
 <br>
 
