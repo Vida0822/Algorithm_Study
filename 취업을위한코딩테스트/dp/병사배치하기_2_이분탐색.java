@@ -28,7 +28,7 @@ public class 병사배치하기_2_이분탐색 { // O(N log N)
 				dp[LIS++] = soilders[i] ; 
 			else {
 				// 해당 비교값보다 큰 값들 중 가장 작은 값을 찾아서 
-				int idx = upperbound(soilders[i] , 0, LIS) ;
+				int idx = lowerbound(soilders[i] , 0, LIS) ;
 				
 				// 교체 --> 가장 작은 증가 폭을 갖는 부분 수열이 되게끔 시시각각 갱신하는 원리가 길이를 늘리는 원리 (greedy) 
 				// ㄴ LIS를 구성하는 정보는 다음 검사 대상의 원소가 포함될 수 있게끔하는 (길이를 늘릴 수 있는) 최상의 정보 
