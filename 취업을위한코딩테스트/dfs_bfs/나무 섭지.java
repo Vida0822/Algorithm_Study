@@ -28,7 +28,7 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int[] split = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
+        int[] split = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray() ; 
         n = split[0];
         m = split[1];
 
@@ -38,32 +38,35 @@ public class Main {
         for (int i = 0; i < n; i++) {
             char[] ch = br.readLine().toCharArray();
             for (int j = 0; j < m; j++) {
-                if (ch[j] == '.')
-                    continue;
+                if (ch[j] == '#')
+                    map[i][j] = 1;
                 else if (ch[j] == 'N')
                     man = new Point(i, j, 0);
                 else if (ch[j] == 'G')
                     ghosts.add(new Point(i, j, 0));
                 else if (ch[j] == 'D')
-                    goal = new Point(i, j, 0);
-                else
-                    map[i][j] = 1;
+                    goal = new Point(i, j, 0);                    
             }
         }
 
         // step 2 : 유령 , 건우의 출구까지의 최단거리 대소비교!!
         int min = bfs(man, "man");
-        if (min == Integer.MAX_VALUE){
+
+        if (min == -1){
             System.out.println("No");
             return ; 
         }
+
+        ghosts.sort(Comparator.comparingInt(gh -> {
+            int row = Math.abs(goal.x - gh.x) ; 
+            int col = Math.abs(goal.y - gh.y) ; 
+
+            return row + col; 
+        })) ; 
         
-        for (Point ghost : ghosts) {
-            int ghostMin = bfs(ghost, "ghost");
-            if (ghostMin <= min) {
-                System.out.println("No") ;
-                return ; 
-            }
+        if ( bfs(ghosts.get(0), "ghost") <= min) {
+            System.out.println("No") ;
+            return ; 
         }
         System.out.println("Yes") ; 
     }
@@ -98,6 +101,6 @@ public class Main {
                 q.offer(new Point(nx, ny, cur.count + 1));
             }
         }
-        return Integer.MAX_VALUE;
+        return -1 ; 
     }
 }
