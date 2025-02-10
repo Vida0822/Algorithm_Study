@@ -1,7 +1,6 @@
 ## 유형별 개념 & 문제  
 
 ### 그리디 
-개념 : 지금 당장 좋은걸 반복적으로 선택. 다음 선택은 고려하지 않는다
 <br> 
 
 하 : [왕실의 나이트](https://vida0822.github.io/algorithm/Algorithm_%EC%99%95%EC%8B%A4%EC%9D%98-%EB%82%98%EC%9D%B4%ED%8A%B8/) / 
