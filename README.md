@@ -20,7 +20,8 @@
 [K진수에서 소수찾기](https://vida0822.github.io/algorithm/Algorithm_k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C-%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0/) /  
 [행렬의 곱셈](https://vida0822.github.io/algorithm/Algorithm_%ED%96%89%EB%A0%AC%EC%9D%98-%EA%B3%B1%EC%85%88/) / 
 [완전수](https://vida0822.github.io/algorithm/Algorithm_%EC%99%84%EC%A0%84%EC%88%98/) / 
-[n진수 변환](https://vida0822.github.io/algorithm/Algorithm_n%EC%A7%84%EC%88%98-%EB%B3%80%ED%99%98/) / 
+[n진수 변환](https://vida0822.github.io/algorithm/Algorithm_n%EC%A7%84%EC%88%98-%EB%B3%80%ED%99%98/) / <br>
+[맨해튼 거리]() / [유클리드 거리]() 
 <br>
 <br>
 <br> 
