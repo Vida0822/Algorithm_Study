@@ -12,6 +12,7 @@
 <br>
 <br>
 
+
 ### 수학적 원리 
 [최대공약수,최대공배수](https://vida0822.github.io/algorithm/Algorithm_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/) / 
 [K진수에서 소수찾기](https://vida0822.github.io/algorithm/Algorithm_k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C-%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0/) /  
