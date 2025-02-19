@@ -129,6 +129,7 @@ Permutation :
     /
 <br>
 중 : [베스트 엘범](https://vida0822.github.io/algorithm/Algorithm_%EB%B2%A0%EC%8A%A4%ED%8A%B8-%EC%97%98%EB%B2%94/) / 
+[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577#qna)
 <br> 
 상 : [호텔 방 배정](https://vida0822.github.io/algorithm/Algorithm_%ED%98%B8%ED%85%94-%EB%B0%A9-%EB%B0%B0%EC%A0%95/) / 
 <br>
