@@ -86,11 +86,8 @@ BFS : [단어 변환](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A8%E
 [처음부터 끝까지!](https://vida0822.github.io/algorithm/Algorithm_%EC%84%A0%ED%98%95%ED%83%90%EC%83%89%EA%B0%9C%EB%85%90/) 
 <br> 
 * Brute Force : 
-<br>
 * Bit Mask : 
-<br>
 * Permutation : 
-<br>
 * 문제 : [기지국 설치](https://vida0822.github.io/algorithm/Algorithm_%EA%B8%B0%EC%A7%80%EA%B5%AD-%EC%84%A4%EC%B9%98/) / 
 <br>
 <br>
