@@ -82,10 +82,16 @@ BFS : [단어 변환](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A8%E
 <br>
 
 ### 순차 탐색 
-개념: [처음부터 끝까지!](https://vida0822.github.io/algorithm/Algorithm_%EC%84%A0%ED%98%95%ED%83%90%EC%83%89%EA%B0%9C%EB%85%90/) 
+개념: [완전 탐색 : 모든 경우의 수를 고려](https://vida0822.github.io/algorithm/Algorithm_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-%EA%B0%9C%EB%85%90/) /
+[처음부터 끝까지!](https://vida0822.github.io/algorithm/Algorithm_%EC%84%A0%ED%98%95%ED%83%90%EC%83%89%EA%B0%9C%EB%85%90/) 
 <br> 
-
-중 : [기지국 설치](https://vida0822.github.io/algorithm/Algorithm_%EA%B8%B0%EC%A7%80%EA%B5%AD-%EC%84%A4%EC%B9%98/) / 
+* Brute Force : 
+<br>
+* Bit Mask : 
+<br>
+* Permutation : 
+<br>
+* 문제 : [기지국 설치](https://vida0822.github.io/algorithm/Algorithm_%EA%B8%B0%EC%A7%80%EA%B5%AD-%EC%84%A4%EC%B9%98/) / 
 <br>
 <br>
 
@@ -106,19 +112,6 @@ BFS : [단어 변환](https://vida0822.github.io/algorithm/Algorithm_%EB%8B%A8%E
     [징검다리 건너기](https://vida0822.github.io/algorithm/Algorithm_%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC-%EA%B1%B4%EB%84%88%EA%B8%B0/) / 
 <br>
 <br>
-
-### 완전 탐색 
-개념 : [모든 경우의 수를 고려](https://vida0822.github.io/algorithm/Algorithm_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-%EA%B0%9C%EB%85%90/) 
-<br>
-
-Brute Force : 
-<br>
-Bit Mask : 
-<br>
-Permutation : 
-<br>
-<br>
-
 
 ### 해시 
 개념 : [해시와 해시함수, 해시충돌](https://vida0822.github.io/algorithm/Algorithm_%ED%95%B4%EC%8B%9C-%EA%B0%9C%EB%85%90/) / 
